@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "799174860277",
+    "project_id": "let-s-getaway",
+    "storage_bucket": "let-s-getaway.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799174860277:android:37a3bc21bb323fa2a2d4bc",
+        "android_client_info": {
+          "package_name": "com.letsgetaway"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799174860277-67e744chfvqhrmhcj47ceg1jddp9p0u4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAJP0Me14gkrOzOCzgIXehb2xyboqQtiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799174860277-67e744chfvqhrmhcj47ceg1jddp9p0u4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
